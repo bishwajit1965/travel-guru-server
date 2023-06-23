@@ -1,0 +1,68 @@
+[
+  {
+    "id": "aB8cD3eF6gH1",
+    "destination_id": "aB8cD3eF6gH1",
+    "name": "Bora Bora",
+    "description": "An island in French Polynesia known for its clear waters and overwater bungalows",
+    "image": "https://i.ibb.co/2F07Pd1/travelling-5.jpg",
+    "location": {
+      "latitude": -16.5004,
+      "longitude": -151.7415
+    }
+  },
+  {
+    "id": "dE7fG1hI4jK9",
+    "destination_id": "dE7fG1hI4jK9",
+    "name": "Santorini",
+    "description": "An island in Greece known for its white-washed buildings and blue domed churches",
+    "image": "https://i.ibb.co/dBwpxpq/travelling-6.jpg",
+    "location": {
+      "latitude": 36.3932,
+      "longitude": 25.4615
+    }
+  },
+  {
+    "id": "gH6iJ2kL3mF9",
+    "destination_id": "aB8cD3eF6gH1",
+    "name": "Marrakech",
+    "description": "A city in Morocco known for its vibrant markets and traditional architecture",
+    "image": "https://i.ibb.co/5kCfnfV/travelling-3.jpg",
+    "location": {
+      "latitude": 31.6295,
+      "longitude": -7.9811
+    }
+  },
+  {
+    "id": "lK2mN1oP8qR4",
+    "destination_id": "dE7fG1hI4jK9",
+    "name": "Banff",
+    "description": "A town in the Canadian Rockies known for its stunning natural beauty and outdoor activities",
+    "image": "https://i.ibb.co/9wrL2Wm/travelling-4.jpg",
+    "location": {
+      "latitude": 51.1784,
+      "longitude": -115.5708
+    }
+  },
+  {
+    "id": "pQ9rS6tU8wX2",
+    "destination_id": "aB8cD3eF6gH1",
+    "name": "Phuket",
+    "description": "An island in Thailand known for its beaches and nightlife",
+    "image": "https://i.ibb.co/FBvc588/travelling-2.jpg",
+    "location": {
+      "latitude": 7.9519,
+      "longitude": 98.3381
+    }
+  },
+  {
+    "id": "sT4uW5vY3xZ8",
+    "destination_id": "dE7fG1hI4jK9",
+    "name": "Hawaii",
+    "description": "A group of islands in the Pacific Ocean known for their natural beauty and tropical climate",
+    "image": "https://i.ibb.co/jr0VQDd/travelling-1.jpg",
+    "location": {
+      "latitude": 19.8968,
+      "longitude": -155.5828
+    }
+  }
+]

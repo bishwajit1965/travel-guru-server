@@ -1,0 +1,76 @@
+[
+  {
+    "destination_id": "aB8cD3eF6gH1",
+    "hotels": [
+      {
+        "id": "hK3mN9oP2qR8",
+        "name": "Four Seasons Resort Bora Bora",
+        "description": "A luxury resort with overwater bungalows and a private beach",
+        "image": "https://example.com/four-seasons-bora-bora.jpg",
+        "price": "$1000",
+        "rating": 4.8
+      },
+      {
+        "id": "hK3mN9oP2qR9",
+        "name": "Four Seasons Resort Bora Bora",
+        "description": "A luxury resort with overwater bungalows and a private beach",
+        "image": "https://example.com/four-seasons-bora-bora.jpg",
+        "price": "$1000",
+        "rating": 4.8
+      },
+      {
+        "id": "hL4mN1oQ9rR2",
+        "name": "The St. Regis Bora Bora Resort",
+        "description": "A high-end resort with overwater villas, a spa, and a lagoon-view restaurant",
+        "image": "https://example.com/st-regis-bora-bora.jpg",
+        "price": "$1200",
+        "rating": 4.9
+      },
+      {
+        "id": "hL4mN1oQ9rR5",
+        "name": "The St. Regis Bora Bora Resort",
+        "description": "A high-end resort with overwater villas, a spa, and a lagoon-view restaurant",
+        "image": "https://example.com/st-regis-bora-bora.jpg",
+        "price": "$1200",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "destination_id": "dE7fG1hI4jK9",
+    "hotels": [
+      {
+        "id": "hM5nO1pQ8rS4",
+        "name": "Canaves Oia Suites",
+        "description": "A luxury hotel with suites featuring private pools and terraces",
+        "image": "https://example.com/canaves-oia-suites.jpg",
+        "price": "$900",
+        "rating": 4.9
+      },
+      {
+        "id": "hM5nO1pQ8rS5",
+        "name": "Canaves Oia Suites",
+        "description": "A luxury hotel with suites featuring private pools and terraces",
+        "image": "https://example.com/canaves-oia-suites.jpg",
+        "price": "$900",
+        "rating": 4.9
+      },
+      {
+        "id": "hN6oP2qR9sT3",
+        "name": "Mystique, a Luxury Collection Hotel, Santorini",
+        "description": "A chic hotel with a cliffside pool and stunning views of the Aegean Sea",
+        "image": "https://example.com/mystique-santorini.jpg",
+        "price": "$1100",
+        "rating": 4.8
+      },
+      {
+        "id": "hN6oP2qR9sT4",
+        "name": "Mystique, a Luxury Collection Hotel, Santorini",
+        "description": "A chic hotel with a cliffside pool and stunning views of the Aegean Sea",
+        "image": "https://example.com/mystique-santorini.jpg",
+        "price": "$1100",
+        "rating": 4.8
+      }
+    ]
+  }
+]
